@@ -1,0 +1,37 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 7SEG_3DIG_CC
+D 3 digit 7 segment red LED, common cathode
+K display LED 7-segment
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-FJ2381BH_C10704.pdf
+$ENDCMP
+#
+$CMP 7SEG_3DIG_CC_v2
+D 3 digit 7 segment red LED, common cathode
+K display LED 7-segment
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-FJ2381BH_C10704.pdf
+$ENDCMP
+#
+$CMP DSN-MINI-360
+D XP Power 6W, 1000 VDC Isolated DC/DC Converter Module, Fully Regulated Single Output Voltage 3.3V, ±1300mA, 5V Input Voltage, SIP
+K XP_POWER DC/DC isolated Converter module
+F https://www.xppower.com/pdfs/SF_ITX.pdf
+$ENDCMP
+#
+$CMP Mini360_DCDC
+K Mini/Mini-360/DC-DC module
+F https://www.xppower.com/pdfs/SF_ITX.pdf
+$ENDCMP
+#
+$CMP STM32G030F6Px
+D ARM Cortex-M0 MCU, 16KB flash, 4KB RAM, 48MHz, 2.4-3.6V, 15 GPIO, TSSOP-20
+K ARM Cortex-M0 STM32F0 STM32F0x0 Value Line
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00088500.pdf
+$ENDCMP
+#
+$CMP YAAJ_DCDC_StepDown_LM2596
+D module : adjustable step down module 3.2V-40V to 1.25V-35V 3A
+K module stepdown step down buck converter DCDC DC
+$ENDCMP
+#
+#End Doc Library
