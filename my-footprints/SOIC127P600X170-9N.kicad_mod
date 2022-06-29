@@ -35,7 +35,7 @@
   (pad "7" smd rect (at 2.712 -0.635 90) (size 0.65 1.525) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5a52f123-9685-4644-b613-b68be3d63bd4))
   (pad "8" smd rect (at 2.712 -1.905 90) (size 0.65 1.525) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bffd52cb-40ea-483d-8e96-17705b2d296b))
   (pad "9" smd rect (at 0 0) (size 2.6 3.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0d9ad15f-b0e2-4a26-8010-02f05da3a0b9))
-  (model "C:/Users/Vadim/Desktop/Mega/Taurus/MyLibs/my-packages3D/ST485EBDR.stp"
+  (model "${KICAD_USER_3DMODEL_DIR}/ST485EBDR.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

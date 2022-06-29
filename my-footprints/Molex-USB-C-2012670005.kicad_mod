@@ -44,8 +44,8 @@
   (pad "S1" thru_hole oval (at 4.572 2.032 90) (size 3.6 1.1) (drill oval 1.6 0.6 (offset 0.7 0)) (layers *.Cu *.Mask) (tstamp ae2c2bdf-a18c-4bd2-a980-6b7e392f03a7))
   (pad "S1" thru_hole oval (at -4.318 -3.302 90) (size 2.1 1.1) (drill oval 1.6 0.6) (layers *.Cu *.Mask) (tstamp cae7ef10-d7ae-4f62-bcc6-8a92b6ddb911))
   (pad "S1" thru_hole oval (at -4.572 2.032 90) (size 3.6 1.1) (drill oval 1.6 0.6 (offset 0.7 0)) (layers *.Cu *.Mask) (tstamp d585dffa-ef9d-47ca-b322-e676703715fb))
-  (model "C:/Users/Vadim/Desktop/Mega/Taurus/MyLibs/my-packages3D/(molexUSBC)201267-0005.stp"
-    (offset (xyz -5.55 0 -3.5))
+  (model "${KICAD_USER_3DMODEL_DIR}/(molexUSBC)201267-0005.stp"
+    (offset (xyz -5.55 0 -3))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )

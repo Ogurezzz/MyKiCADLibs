@@ -38,7 +38,7 @@
   (pad "4" thru_hole circle (at 7 0) (size 1.431 1.431) (drill 0.92) (layers *.Cu *.Mask) (tstamp fda42a36-2a94-4a83-8d88-8fe827c46616))
   (pad "5" thru_hole circle (at 10.07 2.71) (size 3.45 3.45) (drill 2.3) (layers *.Cu *.Mask) (tstamp 4c37434c-79c5-4a1e-985c-52b33046142b))
   (pad "5" thru_hole circle (at -3.07 2.71) (size 3.45 3.45) (drill 2.3) (layers *.Cu *.Mask) (tstamp e738fe4a-5d70-4060-86fe-b35719341f54))
-  (model "C:/Users/Vadim/Desktop/Mega/Taurus/MyLibs/my-packages3D/USB-A.stp"
+  (model "${KICAD_USER_3DMODEL_DIR}/USB-A.stp"
     (offset (xyz 3.5 2.3 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

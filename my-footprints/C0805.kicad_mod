@@ -27,7 +27,7 @@
   (fp_line (start 1 0.625) (end -1 0.625) (layer "F.Fab") (width 0.2) (tstamp aad4d933-b65a-4a65-b712-1cf87c5ddbe4))
   (pad "1" smd rect (at -0.9 0) (size 1.15 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 08d148b9-f90e-45f5-8f8a-b1e02615cb15))
   (pad "2" smd rect (at 0.9 0) (size 1.15 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 10491ef9-0f1c-41b1-908d-2589d2ee0419))
-  (model "C:/Users/Vadim/Desktop/Mega/Taurus/MyLibs/my-packages3D/C0805C105Z4VACTU.stp"
+  (model "${KICAD_USER_3DMODEL_DIR}/C0805C105Z4VACTU.stp"
     (offset (xyz -1.11 -0.5 1))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

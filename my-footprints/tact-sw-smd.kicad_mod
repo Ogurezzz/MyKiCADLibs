@@ -29,7 +29,7 @@
   (pad "2" smd rect (at -3.975 2.25 90) (size 1.3 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 643a26d5-e0ba-4d80-a50b-436850f67cc6))
   (pad "3" smd rect (at 3.975 -2.25 90) (size 1.3 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8bf7d389-84e4-45b5-991a-88f11b3a2832))
   (pad "4" smd rect (at 3.975 2.25 90) (size 1.3 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3b5a979e-18de-4515-9b28-45d2eeb6c847))
-  (model "C:/Users/Vadim/Desktop/Mega/Taurus/MyLibs/my-packages3D/tact-sw-smd.stp"
+  (model "${KICAD_USER_3DMODEL_DIR}/tact-sw-smd.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

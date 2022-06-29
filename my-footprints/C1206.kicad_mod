@@ -27,7 +27,7 @@
   (fp_line (start -1.59 -0.76) (end 1.59 -0.76) (layer "F.Fab") (width 0.1) (tstamp e2d6249d-ce2f-4717-974d-e858777af156))
   (pad "1" smd rect (at -1.44 0) (size 0.85 1.66) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 260bcc70-dbf6-43f4-9357-b27e875b40bd))
   (pad "2" smd rect (at 1.44 0) (size 0.85 1.66) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4fad4f50-eb40-441d-8e4c-84f1fc2c328f))
-  (model "C:/Users/Vadim/Desktop/Mega/Taurus/MyLibs/my-packages3D/1206.stp"
+  (model "${KICAD_USER_3DMODEL_DIR}/1206.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -33,7 +33,7 @@
   (fp_line (start -2.6 -0.45) (end -1.775 -1.275) (layer "F.Fab") (width 0.1) (tstamp e51f13af-347a-44f0-8780-904a6783a81c))
   (pad "1" smd rect (at -2.15 0 90) (size 1.65 2.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0a0b21ac-8e21-4967-add5-47c98d85b87f))
   (pad "2" smd rect (at 2.15 0 90) (size 1.65 2.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 84c69939-5e3c-47c9-9d21-fcfad56e3cb5))
-  (model "C:/Users/Vadim/Desktop/Mega/Taurus/MyLibs/my-packages3D/SMA-diode.stp"
+  (model "${KICAD_USER_3DMODEL_DIR}/SMA-diode.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -34,8 +34,8 @@
   (fp_line (start -0.6 0.4) (end -0.6 -0.4) (layer "F.Fab") (width 0.1) (tstamp a49180d5-72e7-4597-be7e-aa06abe9fe58))
   (pad "1" smd rect (at -0.8 0 90) (size 0.42 0.53) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ce9da9e3-5627-4f8a-a933-120790b11c80))
   (pad "2" smd rect (at 0.8 0 90) (size 0.42 0.53) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f576e77e-a407-49bd-b575-8532c583b098))
-  (model "C:/Users/Vadim/Desktop/Mega/Taurus/MyLibs/my-packages3D/SOD-523.stp"
-    (offset (xyz -0.9 1.6 -1))
+  (model "${KICAD_USER_3DMODEL_DIR}/SOD-523.stp"
+    (offset (xyz -1 1.6 -1))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )

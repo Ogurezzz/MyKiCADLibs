@@ -34,7 +34,7 @@
   (fp_line (start 6.11 4.24) (end 6.11 -3) (layer "F.Fab") (width 0.1) (tstamp d50c162b-d24a-4fd8-8eb8-854ec5857164))
   (pad "1" thru_hole rect (at 0 0) (size 2.1 2.1) (drill 1.4) (layers *.Cu *.Mask) (tstamp 6bbf5fa6-f6e6-48da-aa8c-3487b18bb407))
   (pad "2" thru_hole circle (at 3.81 0) (size 2.1 2.1) (drill 1.4) (layers *.Cu *.Mask) (tstamp 108e682d-c45d-4695-8030-eb2a0123c18c))
-  (model "C:/Users/Vadim/Desktop/Mega/Taurus/MyLibs/my-packages3D/Сборка 15EDG-3.81-2.STEP"
+  (model "${KICAD_USER_3DMODEL_DIR}/Сборка 15EDG-3.81-2.STEP"
     (offset (xyz 1.9 0.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -61,7 +61,7 @@
   (pad "MH2" thru_hole circle (at 4.5 -4.22) (size 1.815 1.815) (drill 1.21) (layers *.Cu *.Mask) (tstamp 4188d84f-f292-4589-913c-e1a963932782))
   (pad "MP1" smd rect (at -5.1 -0.22) (size 1 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e6473af5-c6a3-470a-99e9-f805a85f4770))
   (pad "MP2" smd rect (at 5.1 -0.22) (size 1 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 827a7558-04a8-4abc-b8e7-f82312c3ff53))
-  (model "C:/Users/Vadim/Desktop/Mega/Taurus/MyLibs/my-packages3D/USB4085-GF-A.STEP"
+  (model "${KICAD_USER_3DMODEL_DIR}/USB4085-GF-A.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

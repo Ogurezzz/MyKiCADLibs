@@ -6,7 +6,7 @@
   (property "Sheetfile" "ConnectionBoard.kicad_sch")
   (property "Sheetname" "")
   (attr through_hole)
-  (fp_text reference "TEST_START1" (at 7.4676 -8.763 90) (layer "F.SilkS")
+  (fp_text reference "REF**" (at 2.6 -4.85 180) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp eba0b066-0244-4fdd-b17e-37e88edb8b84)
   )
@@ -34,8 +34,8 @@
   (fp_line (start 7.54 3.75) (end 7.54 -3.75) (layer "F.Fab") (width 0.1) (tstamp 7b79717b-2943-4bfa-be7a-bbe8094790cd))
   (pad "1" thru_hole rect (at 0 0) (size 3 3) (drill 1.52) (layers *.Cu *.Mask) (tstamp 00cfe36c-7032-4baa-a392-c8cad0759da8))
   (pad "2" thru_hole circle (at 5.08 0) (size 3 3) (drill 1.52) (layers *.Cu *.Mask) (tstamp b5184c0a-2c45-4204-97a2-ed31ba096a2c))
-  (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal.wrl"
-    (offset (xyz 0 0 0))
+  (model "${KICAD_USER_3DMODEL_DIR}/Terminal Block/KF301-5.0-2P.step"
+    (offset (xyz 2.5 -0.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

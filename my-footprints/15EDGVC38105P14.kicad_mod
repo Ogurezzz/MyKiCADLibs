@@ -37,17 +37,17 @@
   (pad "3" thru_hole circle (at 7.62 0) (size 2.1 2.1) (drill 1.4) (layers *.Cu *.Mask) (tstamp 032944cc-4676-4f90-ae16-063779142213))
   (pad "4" thru_hole circle (at 11.43 0) (size 2.1 2.1) (drill 1.4) (layers *.Cu *.Mask) (tstamp 7576a291-a1e2-4268-bd9d-e0d6aaf6c437))
   (pad "5" thru_hole circle (at 15.24 0) (size 2.1 2.1) (drill 1.4) (layers *.Cu *.Mask) (tstamp b07a80c0-cb5e-409c-8e0e-a4db5322c061))
-  (model "C:/Users/Vadim/Desktop/Mega/Taurus/MyLibs/my-packages3D/Сборка 15EDG-3.81-2.STEP"
+  (model "${KICAD_USER_3DMODEL_DIR}/Сборка 15EDG-3.81-2.STEP"
     (offset (xyz 1.9 0.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "C:/Users/Vadim/Desktop/Mega/Taurus/MyLibs/my-packages3D/Сборка 15EDG-3.81-2.STEP"
+  (model "${KICAD_USER_3DMODEL_DIR}/Сборка 15EDG-3.81-2.STEP"
     (offset (xyz 9.5 0.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "C:/Users/Vadim/Desktop/Mega/Taurus/MyLibs/my-packages3D/Сборка 15EDG-3.81-2.STEP"
+  (model "${KICAD_USER_3DMODEL_DIR}/Сборка 15EDG-3.81-2.STEP"
     (offset (xyz 13.25 0.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

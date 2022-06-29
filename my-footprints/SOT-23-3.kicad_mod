@@ -31,7 +31,7 @@
   (pad "1" smd rect (at -1.2 -0.95 90) (size 0.7 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2254b1c3-5cbb-47db-ab15-6c6484194a0e))
   (pad "2" smd rect (at -1.2 0.95 90) (size 0.7 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f2e65694-7781-4cf9-8889-e240c92054eb))
   (pad "3" smd rect (at 1.2 0 90) (size 0.7 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 32856cfd-d637-4876-81b0-3a62abb2d20d))
-  (model "C:/Users/Vadim/Desktop/Mega/Taurus/MyLibs/my-packages3D/SOT23-3.stp"
+  (model "${KICAD_USER_3DMODEL_DIR}/SOT23-3.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

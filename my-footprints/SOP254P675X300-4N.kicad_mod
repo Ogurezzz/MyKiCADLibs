@@ -30,4 +30,9 @@
   (pad "2" smd rect (at -3.075 1.27 90) (size 0.65 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ae713fc0-0607-44a8-860e-64a8607689be))
   (pad "3" smd rect (at 3.075 1.27 90) (size 0.65 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0c996b38-59e3-4078-865b-0129931a082a))
   (pad "4" smd rect (at 3.075 -1.27 90) (size 0.65 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e5dd434a-b0bb-4941-a81f-903b90b4822b))
+  (model "${KICAD_USER_3DMODEL_DIR}/el357n_c__ta_-vg.stp"
+    (offset (xyz 0 0 1))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )

@@ -27,7 +27,7 @@
   (fp_line (start 1.6 0.8) (end -1.6 0.8) (layer "F.Fab") (width 0.1) (tstamp d350c952-1810-408e-b82c-91d413cd7457))
   (pad "1" smd rect (at -1.5 0) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 772aaa90-9070-4eb6-bbb4-610af2c8ce13))
   (pad "2" smd rect (at 1.5 0) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a57ed940-176c-44a2-9d14-8dc8949ea589))
-  (model "C:/Users/Vadim/Desktop/Mega/Taurus/MyLibs/my-packages3D/CR1206-FX-2871ELF.stp"
+  (model "${KICAD_USER_3DMODEL_DIR}/CR1206-FX-2871ELF.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

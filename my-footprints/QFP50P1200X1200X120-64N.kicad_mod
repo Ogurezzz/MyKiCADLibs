@@ -6,7 +6,7 @@
     (effects (font (size 1.644835 1.644835) (thickness 0.15)))
     (tstamp 3e1c7e5b-7441-47af-aa27-2a84247ee67f)
   )
-  (fp_text value "QFP50P1200X1200X120-64N" (at 20.528785 -10.582405) (layer "F.Fab")
+  (fp_text value "QFP50P1200X1200X120-64N" (at 0.1 -8.3) (layer "F.Fab")
     (effects (font (size 1.64248 1.64248) (thickness 0.15)))
     (tstamp d3276001-5708-4829-817b-0d74fdfa449e)
   )
@@ -352,7 +352,7 @@
   (pad "62" smd rect (at -2.7432 -5.6134) (size 0.2794 1.4732) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3e616bd2-fe0d-4239-ba94-2b1dc64cb936))
   (pad "63" smd rect (at -3.2512 -5.6134) (size 0.2794 1.4732) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 661a3ff2-ab58-4ffa-a82b-701cc3790f95))
   (pad "64" smd rect (at -3.7592 -5.6134) (size 0.2794 1.4732) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 33ce097f-1777-40fd-a354-14182a3ff031))
-  (model "C:/Users/Vadim/Desktop/Mega/Taurus/MyLibs/my-packages3D/STM32F405RGT6V.stp"
+  (model "${KICAD_USER_3DMODEL_DIR}/STM32F405RGT6V.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

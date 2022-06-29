@@ -28,7 +28,7 @@
   (pad "2" thru_hole circle (at 2.54 0 90) (size 1.303 1.303) (drill 0.76) (layers *.Cu *.Mask "F.SilkS") (tstamp ee02050b-6a7f-4b82-b275-ab37bdba5187))
   (pad "5" thru_hole circle (at 10.16 0 90) (size 1.303 1.303) (drill 0.76) (layers *.Cu *.Mask "F.SilkS") (tstamp 478d080c-8b08-4b1e-a48d-14d4d3c2b935))
   (pad "7" thru_hole circle (at 15.24 0 90) (size 1.303 1.303) (drill 0.76) (layers *.Cu *.Mask "F.SilkS") (tstamp 929c4d07-0148-464e-be81-2d15fb1b0d0b))
-  (model "C:/Users/Vadim/Desktop/Mega/Taurus/MyLibs/my-packages3D/70052003.stp"
+  (model "${KICAD_USER_3DMODEL_DIR}/70052003.stp"
     (offset (xyz 8 -2.3 10))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 -90))

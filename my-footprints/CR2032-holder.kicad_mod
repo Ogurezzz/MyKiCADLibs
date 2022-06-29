@@ -23,7 +23,7 @@
   (fp_circle (center -0.2 0) (end 5 -9.9) (layer "F.SilkS") (width 0.12) (fill none) (tstamp f6b9f88c-c726-42ce-8993-8acbe842877f))
   (pad "1" thru_hole circle (at -12.3 0 90) (size 2 2) (drill 1.25) (layers *.Cu *.Mask) (tstamp 3e7e07ed-e294-455c-85b6-03eaee18155c))
   (pad "2" thru_hole circle (at 8 0 90) (size 2.5 2.5) (drill 1.2) (layers *.Cu *.Mask) (tstamp 6677a66f-775a-4230-9319-a0a90d6d72ed))
-  (model "C:/Users/Vadim/Desktop/Mega/Taurus/MyLibs/my-packages3D/KLS5-CR2032-01 battery holder.stp"
+  (model "${KICAD_USER_3DMODEL_DIR}/KLS5-CR2032-01 battery holder.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

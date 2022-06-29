@@ -29,7 +29,7 @@
   (fp_line (start 1.75 -1.425) (end 1.75 1.425) (layer "F.Fab") (width 0.1) (tstamp fcafd2b3-c9f3-493b-afd0-e33f0a2cea82))
   (pad "1" smd rect (at -1.45 0) (size 1.8 2.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0581da69-8591-4460-a905-2082095fae72))
   (pad "2" smd rect (at 1.45 0) (size 1.8 2.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c82be127-3214-4a2d-b25a-737c51a13930))
-  (model "C:/Users/Vadim/Desktop/Mega/Taurus/MyLibs/my-packages3D/TAJB226K016TNJ.stp"
+  (model "${KICAD_USER_3DMODEL_DIR}/TAJB226K016TNJ.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

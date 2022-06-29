@@ -1,4 +1,4 @@
-(footprint "PLA-05" (version 20211014) (generator pcbnew)
+(footprint "PLS-05" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
   (attr smd)
@@ -16,7 +16,7 @@
   (pad "3" thru_hole circle (at 0 2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 8e7aa46b-3c39-4eb8-9027-056b5c75be31))
   (pad "4" thru_hole circle (at 2.54 2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp a4d3eb62-216d-4142-94bf-e6d9f10786e6))
   (pad "5" thru_hole circle (at 5.08 2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 0a818859-3723-41ee-a71c-128df84668f9))
-  (model "C:/Users/Vadim/Desktop/Mega/Taurus/MyLibs/my-packages3D/PLS-5.STEP"
+  (model "${KICAD_USER_3DMODEL_DIR}/PLS-5.STEP"
     (offset (xyz -6.35 -3.8 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

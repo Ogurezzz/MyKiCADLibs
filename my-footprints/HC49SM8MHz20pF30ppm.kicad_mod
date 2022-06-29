@@ -32,7 +32,7 @@
   (fp_line (start -6 -2.4) (end 6 -2.4) (layer "F.Fab") (width 0.1) (tstamp bcf9ce88-6863-442d-bac7-1abd7f98fc7a))
   (pad "1" smd rect (at -4.75 0 90) (size 2 5.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 56fcb616-d3d3-44b9-8696-b8c0ea77f339))
   (pad "2" smd rect (at 4.75 0 90) (size 2 5.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a8684022-12e8-4461-b798-b133129998fa))
-  (model "C:/Users/Vadim/Desktop/Mega/Taurus/MyLibs/my-packages3D/crystal-smd.STEP"
+  (model "${KICAD_USER_3DMODEL_DIR}/crystal-smd.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

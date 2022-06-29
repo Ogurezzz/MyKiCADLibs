@@ -30,7 +30,7 @@
   (pad "1" smd rect (at -1.15 0) (size 1 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp af88cbf4-4998-493d-959b-6b24d58ae42e))
   (pad "2" smd rect (at 2.2 0 90) (size 1 1.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 00f0c67a-1dec-4ed6-933c-a92153636e76))
   (pad "2" smd rect (at 1.15 0) (size 1 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b652e6ee-15ab-43bf-928a-1f988ae2bbf3))
-  (model "C:/Users/Vadim/Desktop/Mega/Taurus/MyLibs/my-packages3D/LQH32MN100K23L.stp"
+  (model "${KICAD_USER_3DMODEL_DIR}/LQH32MN100K23L.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

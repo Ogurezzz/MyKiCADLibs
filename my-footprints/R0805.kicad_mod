@@ -27,7 +27,7 @@
   (fp_line (start -1 0.625) (end -1 -0.625) (layer "F.Fab") (width 0.1) (tstamp cf731c3f-607e-430c-a008-630f1fd58b59))
   (pad "1" smd rect (at -0.95 0) (size 1 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f703952d-eab2-415e-a8e5-403ae9aa554d))
   (pad "2" smd rect (at 0.95 0) (size 1 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a6554cfc-aa34-4e71-9948-95ce8c2d3cef))
-  (model "C:/Users/Vadim/Desktop/Mega/Taurus/MyLibs/my-packages3D/CR0805-FX-1871ELF.stp"
+  (model "${KICAD_USER_3DMODEL_DIR}/CR0805-FX-1871ELF.stp"
     (offset (xyz 0 0 0.25))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
