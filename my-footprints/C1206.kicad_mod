@@ -1,7 +1,7 @@
 (footprint "C1206" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "1206")
+  (descr "C1206")
   (tags "Capacitor")
   (attr smd)
   (fp_text reference "C**" (at 0 -2.54) (layer "F.SilkS")

@@ -20,7 +20,7 @@
   (fp_line (start -13.4 3.8) (end -10.8 3.8) (layer "F.SilkS") (width 0.12) (tstamp 81dffa41-30b3-4f21-9774-08d72f49af49))
   (fp_line (start -8.95 1.25) (end -8.95 -1.25) (layer "F.SilkS") (width 0.2) (tstamp ab6dd0af-154a-4de7-8448-cb8509959d9b))
   (fp_line (start 5.1 1.25) (end 5.1 -1.25) (layer "F.SilkS") (width 0.2) (tstamp f2a70c24-ae46-4a60-b6c6-e348c6a065b5))
-  (fp_circle (center -0.2 0) (end 5 -9.9) (layer "F.SilkS") (width 0.12) (fill none) (tstamp f6b9f88c-c726-42ce-8993-8acbe842877f))
+  (fp_circle (center -0.2 0) (end 10.8 0) (layer "F.SilkS") (width 0.12) (fill none) (tstamp f6b9f88c-c726-42ce-8993-8acbe842877f))
   (pad "1" thru_hole circle (at -12.3 0 90) (size 2 2) (drill 1.25) (layers *.Cu *.Mask) (tstamp 3e7e07ed-e294-455c-85b6-03eaee18155c))
   (pad "2" thru_hole circle (at 8 0 90) (size 2.5 2.5) (drill 1.2) (layers *.Cu *.Mask) (tstamp 6677a66f-775a-4230-9319-a0a90d6d72ed))
   (model "${KICAD_USER_3DMODEL_DIR}/KLS5-CR2032-01 battery holder.stp"

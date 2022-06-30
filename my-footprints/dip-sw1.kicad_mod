@@ -53,7 +53,7 @@
   (fp_line (start -2.29 -1.015) (end -2.29 8.635) (layer "F.Fab") (width 0.2) (tstamp e8ac41fd-d00e-4714-b779-9249b221bccb))
   (pad "1" thru_hole rect (at 0 0) (size 1.354 1.354) (drill 0.79) (layers *.Cu *.Mask) (tstamp f7b0b49d-150d-4152-a486-f41ee8a04bf3))
   (pad "2" thru_hole circle (at 0 7.62) (size 1.354 1.354) (drill 0.79) (layers *.Cu *.Mask) (tstamp f7b9f04d-290d-4e12-803c-a74be31bcf76))
-  (model "C:/Users/Vadim/Desktop/Mega/Taurus/MyLibs/my-packages3D/DIP Switch x01 Red.stp"
+  (model "${KICAD_USER_3DMODEL_DIR}/DIP Switch x01 Red.stp"
     (offset (xyz 0 -7.6 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

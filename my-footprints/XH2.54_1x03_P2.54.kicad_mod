@@ -53,7 +53,7 @@
   (pad "1" thru_hole roundrect (at -2.54 0) (size 1.7 1.95) (drill 0.95) (layers *.Cu *.Mask) (roundrect_rratio 0.147059) (tstamp 606168cd-6623-49b9-89ba-19c771af369c))
   (pad "2" thru_hole oval (at 0 0) (size 1.7 1.95) (drill 0.95) (layers *.Cu *.Mask) (tstamp baa2cb1f-42b4-4b1f-8366-bec8b093a0b6))
   (pad "3" thru_hole oval (at 2.54 0) (size 1.7 1.95) (drill 0.95) (layers *.Cu *.Mask) (tstamp a5981936-5f2a-40f3-a56c-5961873e274a))
-  (model "${KICAD_USER_3DMODEL_DIR}/XH2.54/Thru Vertical/JST - XH - Thru (V) - 3Pin - 2.54mm.stp"
+  (model "${KICAD_USER_3DMODEL_DIR}/Connectors/XH2.54/Thru Vertical/JST - XH - Thru (V) - 3Pin - 2.54mm.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))

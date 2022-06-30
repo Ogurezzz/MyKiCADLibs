@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP HC-49SM8MHz20pF30ppm
-D Crystal
-K
-F https://datasheet.lcsc.com/szlcsc/Zhejiang-Abel-Elec-HC-49SM8MHz20pF30ppm_C107426.pdf
-$ENDCMP
-#
-#End Doc Library

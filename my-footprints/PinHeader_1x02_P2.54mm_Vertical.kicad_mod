@@ -1,5 +1,5 @@
 (footprint "PinHeader_1x02_P2.54mm_Vertical" (version 20211014) (generator pcbnew)
-  locked (layer "F.Cu")
+  (layer "F.Cu")
   (tedit 59FED5CC)
   (descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
   (tags "Through hole pin header THT 1x02 2.54mm single row")
@@ -31,9 +31,9 @@
   (fp_line (start 1.27 3.81) (end -1.27 3.81) (layer "F.Fab") (width 0.1) (tstamp 5ed28101-497a-4b01-8364-d387b6645b81))
   (fp_line (start -0.635 -1.27) (end 1.27 -1.27) (layer "F.Fab") (width 0.1) (tstamp 63037bf1-5f2f-4ab4-9b5b-ca4ee9a267de))
   (fp_line (start 1.27 -1.27) (end 1.27 3.81) (layer "F.Fab") (width 0.1) (tstamp 8bba7518-c4e6-481b-b847-3f228f48dccf))
-  (pad "1" thru_hole rect locked (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 40be9cff-35fc-4b95-8e6e-910ec8a2577a))
-  (pad "2" thru_hole oval locked (at 0 2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 2811982c-0cac-4843-9bb5-a3d29c126490))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.wrl"
+  (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 40be9cff-35fc-4b95-8e6e-910ec8a2577a))
+  (pad "2" thru_hole oval (at 0 2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 2811982c-0cac-4843-9bb5-a3d29c126490))
+  (model "${KICAD_USER_3DMODEL_DIR}/Connectors/PinHeaders/PinHeader_1x02_P2.54mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
