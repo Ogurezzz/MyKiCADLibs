@@ -1,6 +1,7 @@
 (footprint "QFP50P1200X1200X120-64N" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 615174AB)
+  (descr "LQFP64")
   (attr through_hole)
   (fp_text reference "REF**" (at 0.43307 9.24743) (layer "F.SilkS")
     (effects (font (size 1.644835 1.644835) (thickness 0.15)))

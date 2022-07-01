@@ -1,4 +1,4 @@
-(footprint "SMA-diode" (version 20211014) (generator pcbnew)
+(footprint "D_SMA" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
   (descr "DO-214AC")

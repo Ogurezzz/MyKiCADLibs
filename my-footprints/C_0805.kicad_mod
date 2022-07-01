@@ -1,14 +1,14 @@
-(footprint "C0805" (version 20211014) (generator pcbnew)
+(footprint "C_0805" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "C0805")
+  (descr "Capacitor SMD 0805")
   (tags "Capacitor")
   (attr smd)
   (fp_text reference "C**" (at 0 -2.54) (layer "F.SilkS")
     (effects (font (size 1.27 1.27) (thickness 0.254)))
     (tstamp e6d85ad1-0c87-4fc1-81c6-2535696349e0)
   )
-  (fp_text value "C0805" (at 0 0) (layer "F.SilkS") hide
+  (fp_text value "C_0805" (at 0 0) (layer "F.SilkS") hide
     (effects (font (size 1.27 1.27) (thickness 0.254)))
     (tstamp 4d0fdb6c-c8e9-4917-a488-480efbfb11c8)
   )
@@ -27,7 +27,7 @@
   (fp_line (start 1 0.625) (end -1 0.625) (layer "F.Fab") (width 0.2) (tstamp aad4d933-b65a-4a65-b712-1cf87c5ddbe4))
   (pad "1" smd rect (at -0.9 0) (size 1.15 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 08d148b9-f90e-45f5-8f8a-b1e02615cb15))
   (pad "2" smd rect (at 0.9 0) (size 1.15 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 10491ef9-0f1c-41b1-908d-2589d2ee0419))
-  (model "${KICAD_USER_3DMODEL_DIR}/C0805C105Z4VACTU.stp"
+  (model "${KICAD_USER_3DMODEL_DIR}/C_0805_2012Metric.stp"
     (offset (xyz -1.11 -0.5 1))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

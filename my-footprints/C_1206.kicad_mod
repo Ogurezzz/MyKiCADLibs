@@ -1,14 +1,14 @@
-(footprint "C1206" (version 20211014) (generator pcbnew)
+(footprint "C_1206" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "C1206")
+  (descr "Capacitor SMD 1206")
   (tags "Capacitor")
   (attr smd)
   (fp_text reference "C**" (at 0 -2.54) (layer "F.SilkS")
     (effects (font (size 1.27 1.27) (thickness 0.254)))
     (tstamp cb112f93-4207-403f-905f-682f70663d38)
   )
-  (fp_text value "CAPC3215X163N" (at 0 0) (layer "F.SilkS") hide
+  (fp_text value "C_1206" (at 0 0) (layer "F.SilkS") hide
     (effects (font (size 1.27 1.27) (thickness 0.254)))
     (tstamp b789b859-f8fb-41b3-9804-f8f8ca01d321)
   )
@@ -27,7 +27,7 @@
   (fp_line (start -1.59 -0.76) (end 1.59 -0.76) (layer "F.Fab") (width 0.1) (tstamp e2d6249d-ce2f-4717-974d-e858777af156))
   (pad "1" smd rect (at -1.44 0) (size 0.85 1.66) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 260bcc70-dbf6-43f4-9357-b27e875b40bd))
   (pad "2" smd rect (at 1.44 0) (size 0.85 1.66) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4fad4f50-eb40-441d-8e4c-84f1fc2c328f))
-  (model "${KICAD_USER_3DMODEL_DIR}/1206.stp"
+  (model "${KICAD_USER_3DMODEL_DIR}/C_1206_3216Metric.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -1,7 +1,7 @@
 (footprint "SOIC127P600X175-16N" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "EFM8BB10F8I-A-SOIC16")
+  (descr "SOIC16")
   (tags "Integrated Circuit")
   (attr smd)
   (fp_text reference "IC**" (at 0 0) (layer "F.SilkS")

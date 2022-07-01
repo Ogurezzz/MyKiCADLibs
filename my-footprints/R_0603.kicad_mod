@@ -1,14 +1,14 @@
-(footprint "RESC1608X55N" (version 20211014) (generator pcbnew)
+(footprint "R_0603" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "0603")
+  (descr "R_0603")
   (tags "Resistor")
   (attr smd)
   (fp_text reference "R**" (at 0 -2.54) (layer "F.SilkS")
     (effects (font (size 1.27 1.27) (thickness 0.254)))
     (tstamp 5afb3a61-d18c-4e0d-8f1a-a3bf1e93d65c)
   )
-  (fp_text value "RESC1608X55N" (at 0 -2.54) (layer "F.SilkS") hide
+  (fp_text value "R_0603" (at 0 -2.54) (layer "F.SilkS") hide
     (effects (font (size 1.27 1.27) (thickness 0.254)))
     (tstamp 43a0402d-27e6-47ca-b3e1-dde7cb645f0c)
   )

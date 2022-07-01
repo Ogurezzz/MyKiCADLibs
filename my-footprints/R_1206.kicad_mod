@@ -1,14 +1,14 @@
-(footprint "R1206" (version 20211014) (generator pcbnew)
+(footprint "R_1206" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "CR1206")
+  (descr "R_1206")
   (tags "Resistor")
   (attr smd)
   (fp_text reference "R**" (at 0 -2.54) (layer "F.SilkS")
     (effects (font (size 1.27 1.27) (thickness 0.254)))
     (tstamp 09d707ac-7021-4fc1-9bcf-a9fad190f1c9)
   )
-  (fp_text value "RESC3216X75N" (at 0 0) (layer "F.SilkS") hide
+  (fp_text value "R_1206" (at 0 0) (layer "F.SilkS") hide
     (effects (font (size 1.27 1.27) (thickness 0.254)))
     (tstamp aeea511f-d6a2-4f40-a86e-01e5f0b81186)
   )
