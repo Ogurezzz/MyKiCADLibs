@@ -1,4 +1,4 @@
-(footprint "SOT95P280X145-6N" (version 20211014) (generator pcbnew)
+(footprint "SOT95P280X145-6N_copy" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
   (descr "SOT23-6L-1")
