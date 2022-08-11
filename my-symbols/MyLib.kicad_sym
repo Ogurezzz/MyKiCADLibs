@@ -10301,7 +10301,7 @@
     (property "Value" "TEA_1-0505HI" (id 1) (at -4.318 4.318 0)
       (effects (font (size 0.762 0.762)) (justify left))
     )
-    (property "Footprint" "TEA10505HI" (id 2) (at -7.112 -9.652 0)
+    (property "Footprint" "!MyFootprints:PS_TEA10505HI" (id 2) (at -7.112 -9.652 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://tracopower.com/tea1hi-datasheet/" (id 3) (at -7.112 -14.478 0)
