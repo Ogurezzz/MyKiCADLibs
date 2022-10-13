@@ -30,9 +30,9 @@
   (fp_line (start -1.85 -2.3) (end -0.8 -3.35) (layer "F.Fab") (width 0.1) (tstamp bcb7341f-c5b7-4cf0-ac84-66c574c5e61c))
   (fp_line (start -1.85 3.35) (end 1.85 3.35) (layer "F.Fab") (width 0.1) (tstamp c011dc66-40ad-4f1e-a34f-e251dae0cd31))
   (pad "1" smd rect (at -3.15 -2.3) (size 2 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ea891fee-0855-44cc-8da9-0c7b9e3b1505))
+  (pad "2" smd rect (at 3.15 0) (size 2 3.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 023f2cc5-97fb-4421-8e37-e8aa385789b4))
   (pad "2" smd rect (at -3.15 0) (size 2 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2adbaf0f-7617-4618-9438-78a8bd4ec4b2))
   (pad "3" smd rect (at -3.15 2.3) (size 2 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1b42a1a5-e735-42f2-b87a-1df5a461081d))
-  (pad "4" smd rect (at 3.15 0) (size 2 3.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 023f2cc5-97fb-4421-8e37-e8aa385789b4))
   (model "${KICAD_USER_3DMODEL_DIR}/SOT-223.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
