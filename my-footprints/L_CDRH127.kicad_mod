@@ -1,4 +1,4 @@
-(footprint "INDPM120120X800N" (version 20211014) (generator pcbnew)
+(footprint "L_CDRH127" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
   (descr "CDRH127/LDNP-470MC_a")
@@ -8,7 +8,7 @@
     (effects (font (size 1.27 1.27) (thickness 0.254)))
     (tstamp 7e36115e-fe7a-489f-918b-81629361e2d2)
   )
-  (fp_text value "INDPM120120X800N" (at 0 0) (layer "F.SilkS") hide
+  (fp_text value "CDRH127" (at 0 0) (layer "F.SilkS") hide
     (effects (font (size 1.27 1.27) (thickness 0.254)))
     (tstamp 9700e511-341b-4c2a-92c9-809e61e1ba60)
   )
@@ -26,8 +26,8 @@
   (fp_line (start 6 6) (end -6 6) (layer "F.Fab") (width 0.1) (tstamp 190c8f72-0f37-4f36-8751-497a322d4878))
   (fp_line (start -6 6) (end -6 -6) (layer "F.Fab") (width 0.1) (tstamp 6c24e7de-b665-47f4-8eb2-d8a7ed1fb2a9))
   (fp_line (start -6 -6) (end 6 -6) (layer "F.Fab") (width 0.1) (tstamp 8afa9f63-ffa9-4b8c-be26-ef6aebb8f4f6))
-  (pad "1" smd rect (at -5.05 0) (size 3.2 5.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7fa5e219-64c1-4be6-8bba-ed9928226579))
-  (pad "2" smd rect (at 5.05 0) (size 3.2 5.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b6139660-42d5-4129-9a73-909638bc01ad))
+  (pad "1" smd rect (at -4.95 0) (size 2.9 5.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7fa5e219-64c1-4be6-8bba-ed9928226579))
+  (pad "2" smd rect (at 4.95 0) (size 2.9 5.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b6139660-42d5-4129-9a73-909638bc01ad))
   (model "${KICAD_USER_3DMODEL_DIR}/SUMIDA-CDRH127_L125.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
