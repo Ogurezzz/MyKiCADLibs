@@ -1,13 +1,13 @@
-(footprint "SOT-23-3" (version 20211014) (generator pcbnew)
+(footprint "SOT-23-3 (TL431 edition)" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "SOT-23")
+  (descr "SOT-23-3 for TL431CSF")
   (attr smd)
   (fp_text reference "D**" (at 0 -5.08) (layer "F.SilkS")
     (effects (font (size 1.27 1.27) (thickness 0.254)))
     (tstamp 83759a45-0286-4378-8108-3dd8585bfc63)
   )
-  (fp_text value "SOT95P240X120-3N" (at 0.35 5.08) (layer "F.SilkS") hide
+  (fp_text value "SOT23-3" (at 0.35 5.08) (layer "F.SilkS") hide
     (effects (font (size 1.27 1.27) (thickness 0.254)))
     (tstamp 014c9992-d8be-4012-a18c-25567781818f)
   )
@@ -28,8 +28,8 @@
   (fp_line (start -0.662 -1.46) (end 0.662 -1.46) (layer "F.Fab") (width 0.1) (tstamp b8ed737c-3b53-4dfd-a984-cfa35423ccf1))
   (fp_line (start 0.662 -1.46) (end 0.662 1.46) (layer "F.Fab") (width 0.1) (tstamp dfadcc9b-5baf-49d7-bd6d-bd374f3fa624))
   (pad "1" smd rect (at -1.2 -0.95 90) (size 0.7 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2254b1c3-5cbb-47db-ab15-6c6484194a0e))
-  (pad "2" smd rect (at -1.2 0.95 90) (size 0.7 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f2e65694-7781-4cf9-8889-e240c92054eb))
-  (pad "3" smd rect (at 1.2 0 90) (size 0.7 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 32856cfd-d637-4876-81b0-3a62abb2d20d))
+  (pad "2" smd rect (at 1.2 0 90) (size 0.7 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 32856cfd-d637-4876-81b0-3a62abb2d20d))
+  (pad "3" smd rect (at -1.2 0.95 90) (size 0.7 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f2e65694-7781-4cf9-8889-e240c92054eb))
   (model "${KICAD_USER_3DMODEL_DIR}/SOT23-3.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
