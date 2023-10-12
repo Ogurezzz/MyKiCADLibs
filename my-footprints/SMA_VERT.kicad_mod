@@ -40,10 +40,10 @@
   (fp_line (start 3.175 3.175) (end -3.175 3.175)
     (stroke (width 0.2) (type solid)) (layer "F.Fab") (tstamp 4a1389cb-cc48-4d33-8ada-67dc52246332))
   (pad "1" thru_hole circle (at 0 0) (size 2.205 2.205) (drill 1.47) (layers "*.Cu" "*.Mask") (tstamp 864f4d05-4974-4af2-943f-3abf5ec22323))
+  (pad "2" thru_hole circle (at -2.54 -2.54) (size 2.4 2.4) (drill 1.6) (layers "*.Cu" "*.Mask") (tstamp 4dd20050-9dfe-4f8c-af00-834fdf2b8f52))
   (pad "2" thru_hole circle (at -2.54 2.54) (size 2.4 2.4) (drill 1.6) (layers "*.Cu" "*.Mask") (tstamp 72d92764-10a9-4d63-bdf6-601e0dfc576f))
-  (pad "3" thru_hole circle (at -2.54 -2.54) (size 2.4 2.4) (drill 1.6) (layers "*.Cu" "*.Mask") (tstamp 4dd20050-9dfe-4f8c-af00-834fdf2b8f52))
-  (pad "4" thru_hole circle (at 2.54 -2.54) (size 2.4 2.4) (drill 1.6) (layers "*.Cu" "*.Mask") (tstamp 7c46843a-6b5a-4934-ba58-2e77eb74f34a))
-  (pad "5" thru_hole circle (at 2.54 2.54) (size 2.4 2.4) (drill 1.6) (layers "*.Cu" "*.Mask") (tstamp c31cf1bd-0413-4388-8409-861e7e28fb2d))
+  (pad "2" thru_hole circle (at 2.54 -2.54) (size 2.4 2.4) (drill 1.6) (layers "*.Cu" "*.Mask") (tstamp 7c46843a-6b5a-4934-ba58-2e77eb74f34a))
+  (pad "2" thru_hole circle (at 2.54 2.54) (size 2.4 2.4) (drill 1.6) (layers "*.Cu" "*.Mask") (tstamp c31cf1bd-0413-4388-8409-861e7e28fb2d))
   (model "${KICAD_USER_3DMODEL_DIR}/SMA_connector.STEP"
     (offset (xyz 0 0 -4))
     (scale (xyz 1 1 1))
